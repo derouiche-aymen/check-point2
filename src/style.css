@@ -1,0 +1,11 @@
+.title{
+font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+font-size: x-large;
+text-align: center;
+color: yellowgreen;
+}
+.immag{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+}
